@@ -1,0 +1,5 @@
+激活pytorch： source activate deeplearning
+进入jupyter: jupyter notebook
+
+关闭jupyter服务器端: control+c
+退出虚拟环境：source deactivate 
